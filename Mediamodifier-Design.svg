@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="ab48d7ec-f674-4056-b301-727b4aebd7dd"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="1e8dd2ef-597b-4223-8cd4-fbf9d4be9bc2"  >
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="1ee8b8df-6bf9-4c4d-b4eb-eccd9301829e"  >
+<path style="stroke: rgb(0,0,0); stroke-width: 0; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(123,123,123); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  transform=" translate(-12, -12)" d="M 3 22 C 2.4477152501692068 22 2 21.552284749830793 2 21 L 2 3 C 2 2.4477152501692068 2.4477152501692068 2 3 2 C 3.5522847498307932 2 4 2.4477152501692063 4 2.9999999999999996 L 4 21 C 4 21.552284749830793 3.5522847498307932 22 3 22 z M 15.5 2.134 C 15.19060285319738 1.955369473853301 14.809410415766214 1.9553670528319056 14.50001099995967 2.1339936488908844 C 14.190611584153125 2.312620244949864 14.000009075716198 2.6427389480524366 14 3.000000000000001 L 14 21 C 14 21.552284749830793 14.447715250169207 22 15 22 L 21 22 C 21.552284749830793 22 22 21.552284749830793 22 21 L 22 6.464 C 21.99999092426597 6.106743486023149 21.809393216937817 5.776628256930787 21.5 5.598000000000001 L 15.5 2.134000000000001 z M 9 2 C 8.447715250169207 2 8 2.4477152501692068 8 3 L 8 21 C 8 21.552284749830793 8.447715250169207 22 9 22 C 9.552284749830793 22 10 21.552284749830793 10 21 L 10 3 C 10 2.4477152501692068 9.552284749830793 2 9 2 z" stroke-linecap="round" />
+</g>
+</svg>
